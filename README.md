@@ -70,13 +70,14 @@ A unique cluster consisting primarily of retired individuals who are generally m
 These insights highlight distinct customer segments, such as managerial-level individuals with high yearly balances and retired individuals with different financial behaviors. However, further refinement of clusters may provide deeper insights.
 
 <b><u>Future Work:</u></b>
-To enhance the model and segmentation:
+To enhance 
+the model and segmentation:
 
-Alternative Clustering Methods: 
-
-Experiment with algorithms like DBSCAN or Gaussian Mixture Models (GMM) to improve cluster separation and discover more nuanced customer segments.
-Enhanced Dimensionality Reduction: Explore advanced techniques for dimensionality reduction to improve clustering performance.
-Integration of Insights: Combine insights from all layers to refine customer targeting strategies.
+    Alternative Clustering Methods: 
+    
+    Experiment with algorithms like DBSCAN or Gaussian Mixture Models (GMM) to improve cluster separation and discover more nuanced customer segments.
+    Enhanced Dimensionality Reduction: Explore advanced techniques for dimensionality reduction to improve clustering performance.
+    Integration of Insights: Combine insights from all layers to refine customer targeting strategies.
 
 
 <b>Conclusion:</b>
