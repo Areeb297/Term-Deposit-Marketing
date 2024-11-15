@@ -51,7 +51,7 @@ To balance precision and recall, we developed a second model using XGBoost, achi
      * F1 Score: 59%
      * F2 Score: 69% (emphasizing recall)
      
-     * This balance ensures the model identifies a large number of subscribers without overlooking potential customers, while maintaining reasonable confidence in its predictions. Additionally, the non-subscriber precision was 98%, allowing the client to confidently exclude customers identified as non-subscribers, further optimizing resource allocation.
+     * This balance ensures the model identifies a large number of subscribers without overlooking potential customers, while maintaining reasonable confidence in its predictions. Additionally, the non-subscriber precision was 98%, allowing the model to confidently exclude non-subscribers, further optimizing resource allocation.
 
 *   Layer 3: Customer Segmentation
 We applied clustering techniques such as K-Means and Hierarchical Agglomerative Clustering (HAC) to segment subscribers and uncover common characteristics. Dimensionality reduction and metrics like the elbow method, silhouette score, and inertia score helped determine the optimal number of clusters.
